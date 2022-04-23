@@ -53,8 +53,8 @@ def get_filters():
    
     day = ''
     while day not in DAYS:
-        print("\nplease enter the day you want to see data for (sunday, monday,....saturday) or enter 'all' to apply no filter.")
-        day = input().lower()
+
+        day = input("\nplease enter the day you want to see data for (sunday, monday,....saturday) or enter 'all' to apply no filter.").lower()
         if day not in DAYS:
             print("Sorry, I didn't understand that. Enter a valid day name")
             print("try again")
