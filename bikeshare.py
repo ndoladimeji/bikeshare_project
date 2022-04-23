@@ -41,8 +41,8 @@ def get_filters():
     MONTH_DATA = {'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 6, 'june': 6, 'all': 0}  
     month = ''
     while month not in MONTH_DATA:
-        print("\nplease enter the month you want to see data for (january, february,....june) or enter 'all' to apply no filter")
-        month = input().lower()      
+
+        month = input("\nplease enter the month you want to see data for (january, february,....june) or enter 'all' to apply no filter").lower()      
         if month not in MONTH_DATA.keys():
             print("Sorry, I didn't understand that. Enter a valid month name or enter 'all' to apply no filter")
             print("try again")
