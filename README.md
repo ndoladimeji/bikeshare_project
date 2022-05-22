@@ -2,13 +2,41 @@
 ![Divvy bikeshare](https://user-images.githubusercontent.com/103776681/169701283-31863917-0778-4933-a262-d2a80732e068.png)
 # DIVVY BIKESHARE
 
-The title of this project is _DIVVY BIKESHARE PROJECT_. It was created April 11, 2022. This README.md file was created April 22, 2022. This project is actually one the projects I wrote under the **Acces Bank** sponsored _data analysis nanodegree_ course on **udacity**.
+The title of this project is _DIVVY BIKESHARE PROJECT_. It was created April 11, 2022. This README.md file was created April 22, 2022. This project is actually one the projects I wrote under the **Acces Bank**-sponsored _data analysis nanodegree_ course on [udacity](https://www.udacity.com/). Divvy is a bike sharing system in the US that allows users to rent bicycles for travel and return to other stations near their destinations or to the start stations, if they were going for just a ride. There is a dock system in each bicycle that allows a user to unlock and return it. Click [here](https://en.wikipedia.org/wiki/Divvy) to learn more about Divvy bike share system.
 
 
+## Description
+This project explores data for three cities in the US: 
+- Chicago 
+- New York City 
+- Washington DC 
 
+This project is a python program that answers interesting questions about the Divvy US bike sharing system:
 
-### Description
-This project is a python program. It gets valid user inputs and uses them as filters to display information and statistics about the bikeshare system. It also displays raw data to the user, if interested
+### Popular times of travel (i.e., occurs most often in the start time)
+
+- most common month
+- most common day of week
+- most common hour of day
+
+### Popular stations and trip
+
+- most common start station
+- most common end station
+- most common trip from start to end (i.e., most frequent combination of start station and end station)
+
+### Trip duration
+
+- total travel time
+- average travel time
+
+### User info
+
+- counts of each user type
+- counts of each gender (only available for NYC and Chicago)
+- earliest, most recent, most common year of birth (only available for NYC and Chicago)
+
+It gets valid user inputs and uses them as filters for city, month, and day, to display information and statistics about the bikeshare system. It also displays raw data to the user, if interested.
 
 ### Files used
 chicago.csv;
