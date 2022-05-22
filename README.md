@@ -9,7 +9,7 @@ The title of this project is _DIVVY BIKESHARE PROJECT_. It was created April 11,
 This project explores data for three cities in the US: 
 - Chicago 
 - New York City 
-- Washington DC 
+- Washington, DC 
 
 This project is a python program that answers interesting questions about the Divvy US bike sharing system:
 
@@ -38,13 +38,10 @@ This project is a python program that answers interesting questions about the Di
 
 It gets valid user inputs and uses them as filters for city, month, and day, to display information and statistics about the bikeshare system. It also displays raw data to the user, if interested.
 
-### Files used
-chicago.csv;
-washington.csv;
-new_york_city.csv;
-bikeshare.py (template)
+## Files used
+The data used for this project is provided by [Motivate](https://www.motivateco.com/). The files used can be found in the [.gitignore](https://github.com/ndoladimeji/pdsnd_github/blob/44ad803be3153b09f507c7ca74e0563d56a30d3f/.gitignore) file. Visit [chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data) to see the raw data.
 
-### Credits
+## Credits
 Some of the resource sites consulted include: 
 - [geeksforgeeks](https://www.geeksforgeeks.org/taking-input-in-python/amp/)
 - [knowledgehut](https://www.knowledgehut.com/blog/programming/run-python-scripts)
