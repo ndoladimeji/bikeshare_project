@@ -1,10 +1,11 @@
 
+![Divvy bikeshare](https://user-images.githubusercontent.com/103776681/169701283-31863917-0778-4933-a262-d2a80732e068.png)
+# DIVVY BIKESHARE
 
-![Divvy bikeshare](https://en.m.wikipedia.org/wiki/File:Divvy_bikes_in_Chicago.jpg)
-This project was created April 11, 2022. This README.md file was created April 22, 2022
+The title of this project is _DIVVY BIKESHARE PROJECT_. It was created April 11, 2022. This README.md file was created April 22, 2022. This project is actually one the projects I wrote under the **Acces Bank** sponsored _data analysis nanodegree_ course on **udacity**.
 
-### Project Title
-The title of this project is **Bikeshare project**
+
+
 
 ### Description
 This project is a python program. It gets valid user inputs and uses them as filters to display information and statistics about the bikeshare system. It also displays raw data to the user, if interested
