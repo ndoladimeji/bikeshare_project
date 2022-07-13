@@ -56,6 +56,28 @@ It gets valid user inputs and uses them as filters for city, month, and day, to 
 | new york city | 17 |
 | washington | 8 |
 
+
+| cities | most common start station |
+| ------ | ------ |
+| chicago | Streeter Dr & Grand Ave |
+| new york city | Pershing Square North |
+| washington | Columbus Circle / Union Station |
+
+
+| cities | most common end station |
+| ------ | ------ |
+| chicago | Streeter Dr & Grand Ave |
+| new york city | Pershing Square North |
+| washington | Columbus Circle / Union Station |
+
+
+| cities | most common combination of start and end station
+| ------ | ------ |
+| chicago | Lake Shore Dr & Monroe St-Streeter Dr & Grand Ave |
+| new york city | E 7 St & Avenue A-Cooper Square & E 7 St |
+| washington | Jefferson Dr & 14th St SW-Jefferson Dr & 14th St SW |
+
+
 ## Files used
 The data used for this project is provided by [Motivate](https://www.motivateco.com/). The files used can be found in the [.gitignore](https://github.com/ndoladimeji/pdsnd_github/blob/44ad803be3153b09f507c7ca74e0563d56a30d3f/.gitignore) file. Visit [Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data) to see the raw data.
 
