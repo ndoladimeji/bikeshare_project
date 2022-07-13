@@ -38,7 +38,9 @@ This project is a python program that answers interesting questions about the Di
 
 It gets valid user inputs and uses them as filters for city, month, and day, to display information and statistics about the bikeshare system. It also displays raw data to the user, if interested.
 
-### Results
+## Results
+
+### Most popular month, day and hour
 
 | cities | most popular month | most popular day | most popular hour |
 | ------ | ------ | ------ | ------ |
@@ -46,6 +48,7 @@ It gets valid user inputs and uses them as filters for city, month, and day, to 
 | new york city | 6 | Wednesday | 17 |
 | washington | 6 | Wednesday | 8 |
 
+### Most common start and end station, and most common combination of start and end station
 
 | cities | most common start station | most common end station | most common combination of start and end station |
 | ------ | ------ | ------ | ------ |
@@ -53,6 +56,7 @@ It gets valid user inputs and uses them as filters for city, month, and day, to 
 | new york city | Pershing Square North | Pershing Square North | E 7 St & Avenue A-Cooper Square & E 7 St |
 | washington | Columbus Circle / Union Station | Columbus Circle / Union Station | Jefferson Dr & 14th St SW-Jefferson Dr & 14th St SW |
 
+### Mean and total travel time
 
 | cities | mean travel time | total travel time |
 | ------ | ------ | ------ |
@@ -60,6 +64,7 @@ It gets valid user inputs and uses them as filters for city, month, and day, to 
 | new york city | 74973 hours 40 minutes 48 seconds | 900 |
 | washington | 103106 hours 39 minutes 45 seconds | 1237 |
 
+### User type stats, gender stats, earliest and latest birth year and most common birth year
 
 | cities | user type stats | gender stats | earliest birth year | latest birth year | most common birth year |
 | ------ | ------ | ------ | ------ | ------ | ------ |
