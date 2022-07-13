@@ -38,6 +38,23 @@ This project is a python program that answers interesting questions about the Di
 
 It gets valid user inputs and uses them as filters for city, month, and day, to display information and statistics about the bikeshare system. It also displays raw data to the user, if interested.
 
+### Results
+
+cities | most popular month
+......|......
+chicago | 6
+new york city | 6
+washington | 6
+cities | most popular day
+......| .......
+chicago | Tuesday
+new york city | Wednesday
+washington | Wednesday
+cities | most popular hour
+...... | ......
+chicago | 17
+new york city | 17
+washington | 8
 
 ## Files used
 The data used for this project is provided by [Motivate](https://www.motivateco.com/). The files used can be found in the [.gitignore](https://github.com/ndoladimeji/pdsnd_github/blob/44ad803be3153b09f507c7ca74e0563d56a30d3f/.gitignore) file. Visit [Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data) to see the raw data.
