@@ -61,6 +61,19 @@ It gets valid user inputs and uses them as filters for city, month, and day, to 
 | washington | 103106 hours 39 minutes 45 seconds | 1237 |
 
 
+| cities | user type stats | gender stats | earliest birth year | latest birth year | most common birth year |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| chicago | Subscriber    238889
+Customer       61110
+Dependent          1 | Male      181190
+Female     57758 | 1899 | 2016 |1989 |
+| new york city | Subscriber    269149
+Customer       30159 | Male      204008
+Female     66783 | 1885 | 2001 | 1989 |
+| washington | Subscriber    220786
+Customer       79214 | Nil | Nil | Nil | Nil |
+
+
 ## Files used
 The data used for this project is provided by [Motivate](https://www.motivateco.com/). The files used can be found in the [.gitignore](https://github.com/ndoladimeji/pdsnd_github/blob/44ad803be3153b09f507c7ca74e0563d56a30d3f/.gitignore) file. Visit [Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data) to see the raw data.
 
