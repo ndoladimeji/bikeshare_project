@@ -63,15 +63,9 @@ It gets valid user inputs and uses them as filters for city, month, and day, to 
 
 | cities | user type stats | gender stats | earliest birth year | latest birth year | most common birth year |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| chicago | Subscriber    238889
-Customer       61110
-Dependent          1 | Male      181190
-Female     57758 | 1899 | 2016 |1989 |
-| new york city | Subscriber    269149
-Customer       30159 | Male      204008
-Female     66783 | 1885 | 2001 | 1989 |
-| washington | Subscriber    220786
-Customer       79214 | Nil | Nil | Nil | Nil |
+| chicago | Subscriber    238889 \n Customer       61110 \n Dependent          1 | Male      181190 \n Female     57758 | 1899 | 2016 |1989 |
+| new york city | Subscriber    269149 \n Customer       30159 | Male      204008 \n Female     66783 | 1885 | 2001 | 1989 |
+| washington | Subscriber    220786 \n Customer       79214 | Nil | Nil | Nil | Nil |
 
 
 ## Files used
