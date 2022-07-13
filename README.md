@@ -40,42 +40,25 @@ It gets valid user inputs and uses them as filters for city, month, and day, to 
 
 ### Results
 
-| cities | most popular month |
-| ------ | ------ |
-| chicago | 6 |
-| new york city | 6 |
-| washington | 6 |
-| cities | most popular day |
-| ------| ------ |
-| chicago | Tuesday |
-| new york city | Wednesday |
-| washington | Wednesday |
-| cities | most popular hour |
-| ------ | ------ |
-| chicago | 17 |
-| new york city | 17 |
-| washington | 8 |
+| cities | most popular month | most popular day | most popular hour |
+| ------ | ------ | ------ | ------ |
+| chicago | 6 | Tuesday | 17 |
+| new york city | 6 | Wednesday | 17 |
+| washington | 6 | Wednesday | 8 |
 
 
-| cities | most common start station |
-| ------ | ------ |
-| chicago | Streeter Dr & Grand Ave |
-| new york city | Pershing Square North |
-| washington | Columbus Circle / Union Station |
+| cities | most common start station | most common end station | most common combination of start and end station |
+| ------ | ------ | ------ | ------ |
+| chicago | Streeter Dr & Grand Ave | Streeter Dr & Grand Ave | Lake Shore Dr & Monroe St-Streeter Dr & Grand Ave |
+| new york city | Pershing Square North | Pershing Square North | E 7 St & Avenue A-Cooper Square & E 7 St |
+| washington | Columbus Circle / Union Station | Columbus Circle / Union Station | Jefferson Dr & 14th St SW-Jefferson Dr & 14th St SW |
 
 
-| cities | most common end station |
-| ------ | ------ |
-| chicago | Streeter Dr & Grand Ave |
-| new york city | Pershing Square North |
-| washington | Columbus Circle / Union Station |
-
-
-| cities | most common combination of start and end station
-| ------ | ------ |
-| chicago | Lake Shore Dr & Monroe St-Streeter Dr & Grand Ave |
-| new york city | E 7 St & Avenue A-Cooper Square & E 7 St |
-| washington | Jefferson Dr & 14th St SW-Jefferson Dr & 14th St SW |
+| cities | mean travel time | total travel time |
+| ------ | ------ | ------ |
+| chicago | 78019 hours 56 minutes 27 seconds | 936 |
+| new york city | 74973 hours 40 minutes 48 seconds | 900 |
+| washington | 103106 hours 39 minutes 45 seconds | 1237 |
 
 
 ## Files used
